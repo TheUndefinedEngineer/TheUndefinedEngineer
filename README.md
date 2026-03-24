@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💬 Ask me about:
+
 I’m Mohan — an Electronics and Computer Engineering student passionate about embedded systems, low-level programming, and real-time systems.
 I enjoy working close to hardware, understanding how things actually work under the hood, and building systems from scratch.
 
@@ -35,3 +35,7 @@ I enjoy working close to hardware, understanding how things actually work under 
 - RTOS / OS: QNX, bare-metal development
 - Tools: STM32CubeIDE, Git
 - Notes & Documentation: Obsidian
+
+⚡ Fun fact: 
+- Love new tech.
+- A dog which annoys me time to time 🫠.
