@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💬 Ask me about:
+I’m Mohan — an Electronics and Computer Engineering student passionate about embedded systems, low-level programming, and real-time systems.
+I enjoy working close to hardware, understanding how things actually work under the hood, and building systems from scratch.
+
+🔭 I’m currently working on:
+- Self-balancing robot using STM32 register level programming.
+- Embedded blackbox system for crash detection & logging
+- Fault-tolerant drug infusion pump (QNX-based project)
+
+🌱 I’m currently learning:
+- Register level programming.
+- Real-Time Operating Systems(QNX)
+  
+🛠️ Hardware & Software Stack:
+- Environment: Linux
+- Microcontrollers: STM32 (F4 series)
+- Languages: C, Embedded C, a bit of Python
+- Protocols: I2C, SPI, UART
+- RTOS / OS: QNX, bare-metal development
+- Tools: STM32CubeIDE, Git
+- Notes & Documentation: Obsidian
