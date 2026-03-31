@@ -38,4 +38,4 @@ I enjoy working close to hardware, understanding how things actually work under 
 
 ⚡ Fun fact: 
 - Love new tech.
-- A dog which annoys me time to time 🫠.
+- I have a dog and she annoys me time to time 🫠.
